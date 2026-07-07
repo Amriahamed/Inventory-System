@@ -1,4 +1,4 @@
-# Zenith Inventory | Premium Inventory Management System
+# Amry Inventory | Premium Inventory Management System
 
 A high-fidelity, premium frontend-only Inventory Management System built with **React**, **Formik**, **Yup**, and **Vanilla CSS**. This application delivers clean visual workflows, interactive analytics, and robust safety validation boundaries for tracking stock, managing products, and exporting data.
 
