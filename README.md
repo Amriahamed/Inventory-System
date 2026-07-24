@@ -53,7 +53,8 @@ A high-fidelity, premium frontend-only Inventory Management System built with **
 ### 1. Clone or Open the Directory
 Open a terminal in the project directory:
 ```bash
-cd "c:/Users/amrya/Desktop/Cloud Syntex"
+cd "c:/Users/amrya/Desktop/inventory
+"
 ```
 
 ### 2. Install Dependencies
